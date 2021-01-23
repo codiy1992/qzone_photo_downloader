@@ -1,0 +1,10 @@
+frmDownPhoto = 40, 22, 928, 587, , 170, -25, 1118, 597, C
+Mod_GloabalFun = 122, 91, 1015, 540, 
+clswaitabletimer = 0, 0, 0, 0, C
+Dialog = 96, 140, 991, 589, C, 25, 25, 298, 197, C
+XPButton2 = 0, 0, 0, 0, C, 125, 125, 1020, 574, C
+Mod_qqLogin = 109, 15, 1000, 569, 
+Mod_QZonePhoto = 85, 38, 979, 590, 
+Mod_TVColor = 0, 0, 0, 0, C
+frmAbout = 80, 54, 975, 503, , 25, 25, 920, 474, C
+frmHelp = 0, 0, 0, 0, C, 50, 50, 945, 499, C
